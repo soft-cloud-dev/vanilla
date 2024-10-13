@@ -8,7 +8,7 @@
         "@vanilla/tsconfig": "^3.0.1"
     },
     "dependencies": {
-        "immer": "^2.0.0"
+        "immer": "10.1.1"
     },
     "peerDependencies": {
         "lodash-es": "*"

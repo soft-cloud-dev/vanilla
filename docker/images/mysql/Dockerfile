@@ -1,4 +1,4 @@
-FROM mysql:8.2
+FROM mysql:8.4.4
 
 # Make sure we can write to the log directory.
 USER root
